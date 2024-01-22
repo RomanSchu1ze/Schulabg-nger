@@ -1,1 +1,3 @@
-# Schulabg-nger
+# Schulabsolventen
+
+Datenaufbereitung/ -cleaning historischer Daten von Schulabgängern. Quelle: Destatis 
